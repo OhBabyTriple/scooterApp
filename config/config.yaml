@@ -1,0 +1,22 @@
+bluetooth:
+  scan_timeout: 5.0
+  device_name_filter: "SCOOTER"
+  enable_name_filter: false
+  service_uuid: "6e400001-b5a3-f393-e0a9-e50e24dcca9e"
+  write_uuid: "6e400002-b5a3-f393-e0a9-e50e24dcca9e"
+  notify_uuid: "6e400003-b5a3-f393-e0a9-e50e24dcca9e"
+  scooter_mac: "XX:XX:XX:XX:XX:XX"  # 替换成你的滑板车 MAC 地址
+
+commands:
+  get_key: [0xA3, 0xA4, 0x08, 0x00, 0x00, 0x01, 0x4F, 0x6D, 0x6E, 0x69, 0x57, 0x34, 0x47, 0x58, 0x01]
+  unlock: [0xA3, 0xA4, 0x0A, 0x00, 0x00, 0x05, 0x01, 0x12, 0x34, 0x56, 0x78, 0x9A, 0xBC, 0x00]
+  lock: [0xA3, 0xA4, 0x01, 0x00, 0x00, 0x15, 0x01]
+
+ui:
+  window_title: "Scooter 控制器"
+  window_size: "400x500"
+  
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/scooter.log" 
