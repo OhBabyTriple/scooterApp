@@ -83,6 +83,10 @@ class MainWindow:
     def show_info(self, title: str, message: str):
         messagebox.showinfo(title, message)
         
+    def ask_password(self):
+        import tkinter.simpledialog as simpledialog
+        return simpledialog.askstring("密码验证", "请输入密码:", show="*")
+        
     def toggle_filter(self):
         """切换名称过滤状态"""
         self.controller.bluetooth.config["enable_name_filter"] = self.filter_var.get()

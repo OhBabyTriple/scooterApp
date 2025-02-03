@@ -65,31 +65,40 @@ class ScooterController:
         device = self.devices[selection[0]]
         self._run_async(self._connect(device))
         
-    async def _send_command(self, command_type: CommandType):
-        try:
-            success = await self.bluetooth.send_command(command_type.value)
-            if success:
-                self.view.show_info("成功", f"{command_type.value}命令发送成功")
-            else:
-                self.view.show_error("错误", f"{command_type.value}命令发送失败")
-        except Exception as e:
-            logger.error(f"发送命令失败: {str(e)}")
-            self.view.show_error("错误", f"发送命令失败: {str(e)}")
-            
-    async def unlock_scooter(self):
+    def unlock_scooter(self):
+        """发送解锁命令，先同步获取密码，再启动异步任务"""
+        password = self.view.ask_password()
+        if not password:
+            self.view.show_error("错误", "未输入密码")
+            return
+        # 这里可以增加密码验证逻辑，如与预设密码比较
+        self._run_async(self._unlock_scooter(password))
+    
+    async def _unlock_scooter(self, password: str):
         if await self.bluetooth.connect_to_scooter():
             await self.bluetooth.send_command("get_key")
+            # 此处可添加使用密码生成/验证的逻辑
             await asyncio.sleep(1)
             await self.bluetooth.send_command("unlock")
             self.view.show_info("成功", "解锁成功！")
-
-    async def lock_scooter(self):
+    
+    def lock_scooter(self):
+        """发送上锁命令，先同步获取密码，再启动异步任务"""
+        password = self.view.ask_password()
+        if not password:
+            self.view.show_error("错误", "未输入密码")
+            return
+        # 此处可增加密码验证逻辑
+        self._run_async(self._lock_scooter(password))
+    
+    async def _lock_scooter(self, password: str):
         if await self.bluetooth.connect_to_scooter():
             await self.bluetooth.send_command("get_key")
+            # 此处可加入密码处理逻辑
             await asyncio.sleep(1)
             await self.bluetooth.send_command("lock")
             self.view.show_info("成功", "锁车成功！")
-
+    
     def disconnect_device(self):
         """断开当前连接的设备"""
         self._run_async(self.bluetooth.disconnect())

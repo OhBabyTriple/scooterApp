@@ -70,3 +70,134 @@
 2025-02-02 12:37:18,310 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=41:8F:8D:C6:CD:4B, RSSI=-89
 2025-02-02 12:37:18,310 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=60:5C:F6:96:5F:6B, RSSI=-77
 2025-02-02 12:37:18,310 - ScooterController - INFO - 发现 17 个设备
+2025-02-02 13:02:00,198 - ScooterController - INFO - 正在连接到设备: 🐟ni
+2025-02-02 13:02:10,207 - ScooterController - ERROR - 连接失败: Device with address 54:B7:E5:B9:18:34 was not found.
+2025-02-02 13:19:54,319 - ScooterController - INFO - 开始扫描设备
+2025-02-02 13:19:59,376 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=7C:25:7A:6F:32:D6, RSSI=-85
+2025-02-02 13:19:59,376 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=DF:25:76:F2:E7:33, RSSI=-73
+2025-02-02 13:19:59,376 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=2E:5B:7D:0D:19:A2, RSSI=-97
+2025-02-02 13:19:59,376 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=31:39:B0:C7:90:39, RSSI=-80
+2025-02-02 13:19:59,376 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4C:9E:11:5A:B5:24, RSSI=-88
+2025-02-02 13:19:59,376 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=C8:26:37:7E:A8:90, RSSI=-100
+2025-02-02 13:19:59,377 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=BC:0F:F3:13:EF:35, RSSI=-57
+2025-02-02 13:19:59,377 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=1D:88:3C:57:B2:A8, RSSI=-78
+2025-02-02 13:19:59,377 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=64:58:1F:9D:8C:B2, RSSI=-67
+2025-02-02 13:19:59,377 - ScooterController - INFO - 发现设备: 名称=P20P-EB1B, 地址=EB:1B:02:33:9E:F7, RSSI=-83
+2025-02-02 13:19:59,377 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=44:18:BC:BF:03:F0, RSSI=-77
+2025-02-02 13:19:59,377 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=5C:26:1E:63:35:59, RSSI=-62
+2025-02-02 13:19:59,378 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=61:6A:E3:00:BC:62, RSSI=-95
+2025-02-02 13:19:59,378 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=6D:F9:1E:76:1A:07, RSSI=-76
+2025-02-02 13:19:59,378 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=7B:90:26:E6:1A:CC, RSSI=-80
+2025-02-02 13:19:59,378 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=9C:8C:6E:E6:63:8D, RSSI=-97
+2025-02-02 13:19:59,378 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=53:93:70:F2:10:16, RSSI=-63
+2025-02-02 13:19:59,378 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=6B:39:20:62:CD:B3, RSSI=-37
+2025-02-02 13:19:59,379 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=66:F4:F9:FB:04:FD, RSSI=-59
+2025-02-02 13:19:59,379 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=04:E9:F4:72:4B:20, RSSI=-57
+2025-02-02 13:19:59,379 - ScooterController - INFO - 发现设备: 名称=EMBERTON II [LE], 地址=65:89:BA:25:FB:D7, RSSI=-66
+2025-02-02 13:19:59,379 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=6F:65:09:53:80:78, RSSI=-73
+2025-02-02 13:19:59,379 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=C8:5E:85:A0:DF:45, RSSI=-81
+2025-02-02 13:19:59,380 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=0E:46:C7:4E:D4:81, RSSI=-96
+2025-02-02 13:19:59,380 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=C0:25:C5:AA:8E:80, RSSI=-58
+2025-02-02 13:19:59,380 - ScooterController - INFO - 发现设备: 名称=qmi.plug.psv3, 地址=CC:B5:D1:A5:CB:95, RSSI=-93
+2025-02-02 13:19:59,380 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=FE:75:05:E9:BB:FD, RSSI=-74
+2025-02-02 13:19:59,380 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=CF:70:C8:BA:90:31, RSSI=-99
+2025-02-02 13:19:59,381 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=71:EA:A1:D3:9F:57, RSSI=-56
+2025-02-02 13:19:59,381 - ScooterController - INFO - 发现设备: 名称=🐟ni, 地址=54:B7:E5:B9:18:34, RSSI=-79
+2025-02-02 13:19:59,381 - ScooterController - INFO - 发现 30 个设备
+2025-02-03 14:24:54,469 - ScooterController - INFO - 开始扫描设备
+2025-02-03 14:24:59,592 - ScooterController - INFO - 发现设备: 名称=🐟ni, 地址=54:B7:E5:B9:18:34, RSSI=-82
+2025-02-03 14:24:59,592 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=71:E9:C8:DD:80:15, RSSI=-64
+2025-02-03 14:24:59,592 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4F:F5:06:FC:74:45, RSSI=-72
+2025-02-03 14:24:59,592 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=55:7C:B2:4D:AF:C8, RSSI=-55
+2025-02-03 14:24:59,593 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=BC:0F:F3:13:EF:35, RSSI=-61
+2025-02-03 14:24:59,593 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=5C:2D:6D:E2:46:75, RSSI=-93
+2025-02-03 14:24:59,593 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4D:7A:6E:86:A0:80, RSSI=-88
+2025-02-03 14:24:59,593 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=43:28:90:70:6F:6F, RSSI=-49
+2025-02-03 14:24:59,593 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=19:C4:35:CE:D3:01, RSSI=-82
+2025-02-03 14:24:59,593 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=9C:8C:6E:E6:63:8D, RSSI=-94
+2025-02-03 14:24:59,593 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=6A:A6:37:A8:29:B2, RSSI=-95
+2025-02-03 14:24:59,594 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=60:21:B8:15:18:D1, RSSI=-76
+2025-02-03 14:24:59,594 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4F:A0:15:74:73:92, RSSI=-69
+2025-02-03 14:24:59,594 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=25:3F:BE:FC:A4:03, RSSI=-95
+2025-02-03 14:24:59,594 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=FE:25:63:F0:EB:B7, RSSI=-42
+2025-02-03 14:24:59,594 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=2D:44:50:7A:F8:1C, RSSI=-74
+2025-02-03 14:24:59,594 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=67:13:98:E0:69:D6, RSSI=-81
+2025-02-03 14:24:59,594 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=ED:B5:10:97:19:C3, RSSI=-85
+2025-02-03 14:24:59,594 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=42:62:F9:66:CA:7B, RSSI=-42
+2025-02-03 14:24:59,595 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=D3:3F:C3:5C:CA:DE, RSSI=-89
+2025-02-03 14:24:59,595 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=52:47:AF:17:EC:47, RSSI=-73
+2025-02-03 14:24:59,595 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=70:0B:74:9F:7E:52, RSSI=-82
+2025-02-03 14:24:59,595 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4B:BA:AE:17:4F:4B, RSSI=-88
+2025-02-03 14:24:59,595 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=63:CC:0E:7E:23:57, RSSI=-101
+2025-02-03 14:24:59,595 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4D:6A:44:9C:E0:9F, RSSI=-84
+2025-02-03 14:24:59,596 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=39:E6:26:D8:EA:06, RSSI=-96
+2025-02-03 14:24:59,596 - ScooterController - INFO - 发现 26 个设备
+2025-02-03 14:25:19,755 - ScooterController - INFO - 正在连接到设备: 🐟ni
+2025-02-03 14:25:27,630 - ScooterController - INFO - 成功连接到设备: 🐟ni
+2025-02-03 14:26:17,396 - ScooterController - INFO - 开始扫描设备
+2025-02-03 14:26:22,452 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=19:C4:35:CE:D3:01, RSSI=-77
+2025-02-03 14:26:22,452 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=25:3F:BE:FC:A4:03, RSSI=-88
+2025-02-03 14:26:22,452 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=6A:A6:37:A8:29:B2, RSSI=-87
+2025-02-03 14:26:22,453 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=70:0B:74:9F:7E:52, RSSI=-87
+2025-02-03 14:26:22,453 - ScooterController - INFO - 发现设备: 名称=🐟ni, 地址=54:B7:E5:B9:18:34, RSSI=-88
+2025-02-03 14:26:22,453 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=2D:44:50:7A:F8:1C, RSSI=-77
+2025-02-03 14:26:22,453 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4F:F5:06:FC:74:45, RSSI=-69
+2025-02-03 14:26:22,453 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4B:BA:AE:17:4F:4B, RSSI=-92
+2025-02-03 14:26:22,453 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=60:21:B8:15:18:D1, RSSI=-67
+2025-02-03 14:26:22,453 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=43:28:90:70:6F:6F, RSSI=-52
+2025-02-03 14:26:22,454 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=BC:0F:F3:13:EF:35, RSSI=-59
+2025-02-03 14:26:22,454 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=39:E6:26:D8:EA:06, RSSI=-93
+2025-02-03 14:26:22,454 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=ED:B5:10:97:19:C3, RSSI=-85
+2025-02-03 14:26:22,454 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=55:C7:30:97:E3:A8, RSSI=-78
+2025-02-03 14:26:22,454 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4F:A0:15:74:73:92, RSSI=-64
+2025-02-03 14:26:22,454 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=DB:FD:09:84:98:27, RSSI=-70
+2025-02-03 14:26:22,455 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=19:F0:25:24:37:20, RSSI=-52
+2025-02-03 14:26:22,455 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=5C:2D:6D:E2:46:75, RSSI=-90
+2025-02-03 14:26:22,455 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4D:7A:6E:86:A0:80, RSSI=-83
+2025-02-03 14:26:22,455 - ScooterController - INFO - 发现设备: 名称=P20P-EB1B, 地址=EB:1B:02:33:9E:F7, RSSI=-84
+2025-02-03 14:26:22,455 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4D:6A:44:9C:E0:9F, RSSI=-93
+2025-02-03 14:26:22,455 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=51:15:50:8D:FE:E7, RSSI=-98
+2025-02-03 14:26:22,456 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=71:E9:C8:DD:80:15, RSSI=-70
+2025-02-03 14:26:22,456 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=55:7C:B2:4D:AF:C8, RSSI=-44
+2025-02-03 14:26:22,456 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=67:13:98:E0:69:D6, RSSI=-85
+2025-02-03 14:26:22,456 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=CA:17:50:52:4A:DC, RSSI=-44
+2025-02-03 14:26:22,456 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=42:62:F9:66:CA:7B, RSSI=-43
+2025-02-03 14:26:22,457 - ScooterController - INFO - 发现 27 个设备
+2025-02-03 14:26:25,882 - ScooterController - INFO - 正在连接到设备: Unknown
+2025-02-03 14:26:26,694 - ScooterController - ERROR - 连接失败: Device with address 19:C4:35:CE:D3:01 was not found.
+2025-02-03 14:26:30,620 - ScooterController - INFO - 正在连接到设备: 🐟ni
+2025-02-03 14:26:36,511 - ScooterController - INFO - 成功连接到设备: 🐟ni
+2025-02-03 14:29:07,018 - ScooterController - INFO - 开始扫描设备
+2025-02-03 14:29:12,056 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4D:6A:44:9C:E0:9F, RSSI=-88
+2025-02-03 14:29:12,056 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=60:21:B8:15:18:D1, RSSI=-68
+2025-02-03 14:29:12,056 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=43:28:90:70:6F:6F, RSSI=-48
+2025-02-03 14:29:12,056 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=2D:44:50:7A:F8:1C, RSSI=-79
+2025-02-03 14:29:12,057 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=F0:C1:F2:A0:DF:53, RSSI=-74
+2025-02-03 14:29:12,057 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4D:7A:6E:86:A0:80, RSSI=-99
+2025-02-03 14:29:12,057 - ScooterController - INFO - 发现设备: 名称=qmi.plug.psv3, 地址=CC:B5:D1:A5:CB:95, RSSI=-89
+2025-02-03 14:29:12,057 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=18:21:BB:34:C3:CE, RSSI=-87
+2025-02-03 14:29:12,057 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=55:C7:30:97:E3:A8, RSSI=-99
+2025-02-03 14:29:12,057 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=67:13:98:E0:69:D6, RSSI=-80
+2025-02-03 14:29:12,057 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=BC:0F:F3:13:EF:35, RSSI=-62
+2025-02-03 14:29:12,058 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=7B:B9:BE:1E:89:6C, RSSI=-81
+2025-02-03 14:29:12,058 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=19:F0:25:24:37:20, RSSI=-48
+2025-02-03 14:29:12,058 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=ED:B5:10:97:19:C3, RSSI=-94
+2025-02-03 14:29:12,058 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=5C:2D:6D:E2:46:75, RSSI=-89
+2025-02-03 14:29:12,058 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=71:E9:C8:DD:80:15, RSSI=-65
+2025-02-03 14:29:12,058 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=02:07:B6:36:F8:C1, RSSI=-82
+2025-02-03 14:29:12,058 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=55:7C:B2:4D:AF:C8, RSSI=-38
+2025-02-03 14:29:12,059 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4F:F5:06:FC:74:45, RSSI=-70
+2025-02-03 14:29:12,059 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=70:0B:74:9F:7E:52, RSSI=-77
+2025-02-03 14:29:12,059 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=EE:22:EB:82:51:F4, RSSI=-63
+2025-02-03 14:29:12,059 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=42:62:F9:66:CA:7B, RSSI=-42
+2025-02-03 14:29:12,059 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=D9:75:11:03:E4:9E, RSSI=-70
+2025-02-03 14:29:12,059 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4B:BA:AE:17:4F:4B, RSSI=-89
+2025-02-03 14:29:12,059 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=6A:A6:37:A8:29:B2, RSSI=-96
+2025-02-03 14:29:12,060 - ScooterController - INFO - 发现设备: 名称=Amazfit Pop, 地址=CE:4F:8F:4F:40:C9, RSSI=-86
+2025-02-03 14:29:12,060 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=51:15:50:8D:FE:E7, RSSI=-92
+2025-02-03 14:29:12,060 - ScooterController - INFO - 发现设备: 名称=🐟ni, 地址=54:B7:E5:B9:18:34, RSSI=-83
+2025-02-03 14:29:12,060 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=4C:BB:17:CF:C3:78, RSSI=-98
+2025-02-03 14:29:12,060 - ScooterController - INFO - 发现设备: 名称=Unknown, 地址=63:CC:0E:7E:23:57, RSSI=-98
+2025-02-03 14:29:12,060 - ScooterController - INFO - 发现 30 个设备
+2025-02-03 14:29:18,651 - ScooterController - INFO - 正在连接到设备: 🐟ni
+2025-02-03 14:29:33,451 - ScooterController - INFO - 成功连接到设备: 🐟ni
